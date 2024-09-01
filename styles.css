@@ -18,7 +18,7 @@ header h1{
 
 div.post{
     background-color: white;
-    margin-top: 10px;
+    margin-top: 5vh;
 }
 
 div.post img{
@@ -46,3 +46,4 @@ div.container {
     width: 600px;
     margin: auto;
 }
+
